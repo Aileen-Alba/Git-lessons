@@ -1,1 +1,2 @@
 Sample file to desmostrate how to handle a pull request
+Cambios en un commit de otra persona. 
