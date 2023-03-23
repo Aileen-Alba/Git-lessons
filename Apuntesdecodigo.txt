@@ -1,0 +1,17 @@
+THE SHELL:
+What a textual interface 
+echo -> prints outs arguments 
+se usan "" si tiene espacios
+$PATH -> directorios donde busca SHELL
+pwd -> ver directorios
+cd - > cambiar directorios 
+. -> current directory 
+.. -> parent directory
+ls -> qué hay en cada directorio
+mv -> rename/move a file 
+cp -> copy a file 
+mkdir -> hacer un nuevo directorio
+PARA SALIR -> q o ctrl+c 
+cat -> se ve lo que hay en el archivo 
+grep -> busca
+ctrl+L -> clear terminal 
