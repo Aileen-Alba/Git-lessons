@@ -15,3 +15,8 @@ PARA SALIR -> q o ctrl+c
 cat -> se ve lo que hay en el archivo 
 grep -> busca
 ctrl+L -> clear terminal 
+
+SHELL TOOLS 
+foo = bar 
+importantes los espacios 
+echo $foo -> llama "bar"
